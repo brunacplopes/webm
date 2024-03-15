@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Bruna Lopes</title>
+</head>
+<body>
+
+    <h1>Minha Rotina</h1>
+    <p> 
+        1- Vou para a faculdade <br>
+        2- Almoço<br> 
+        3- <strong>Exercício físico (geralmente bike)</strong>  <br> 
+        4- Estudos <br>
+        5- Descanso<br> 
+        6- Lazer <br>
+        7-<strong> Dormir</strong>
+    </p>
+    <p>  <i>"so sei que nada sei- socrates"<i/></p>
+
+    <h2>Contato</h2>
+    <p>Você pode me encontrar aqui:</p>
+    <a href="https://www.instagram.com/brunacplopes?igsh=eG5vN2RnOWZoZmNr&utm_source=qr">Meu Instagram</a>
+    <br>
+    <img src="https://christianosantos.com/files/cs1/avatar-mulher.jpg" alt="Minha Foto">
+    <br>
+    <video width="320" height="240" controls>
+        <source src="https://www.w3schools.com/tags/movie.mp4" type="video/mp4">
+    </video>
+    
+    <br>
+    
+</body>
+</html>
